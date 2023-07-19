@@ -10,7 +10,7 @@ const ChatSupport = () => {
     document.head.appendChild(script);
 
     return () => {
-      // Hủy chat support khi component bị hủy
+      // Hủy chat support khi component bị hủy  
       const tawkScript = document.querySelector('script[src="https://embed.tawk.to/64b664f7cc26a871b0291d0f/1h5k7kqgj"]');
       if (tawkScript) {
         document.head.removeChild(tawkScript);
