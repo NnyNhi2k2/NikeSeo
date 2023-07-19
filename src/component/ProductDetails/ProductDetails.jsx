@@ -46,6 +46,7 @@ const ProductDetails = () => {
                 <option className='filter-size-option'>40</option>
                 <option className='filter-size-option'>41</option>
                 <option className='filter-size-option'>42</option>
+                
               </select>
             </div>
           </div>
