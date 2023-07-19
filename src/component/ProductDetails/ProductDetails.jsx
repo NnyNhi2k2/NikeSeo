@@ -50,11 +50,11 @@ const ProductDetails = () => {
             </div>
           </div>
           <div className='add-container'>
-            <div className='amount-container'>
-              <div className='amount'  onClick={handleDecrease}>-</div>
-                <span>{quantity}</span>
-              <div className='amount' onClick={handleIncrease}>+</div>
-            </div>
+              <div className='amount-container'>
+                <div className='amount'  onClick={handleDecrease}>-</div>
+                 <span>{quantity}</span>
+                <div className='amount' onClick={handleIncrease}>+</div>
+              </div>
             <button className='button' onClick={handleAddToCart}>ADD TO CART</button>
           </div>
         </div>
