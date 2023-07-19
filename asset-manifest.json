@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NikeSeo/static/css/main.da49887e.css",
+    "main.js": "/NikeSeo/static/js/main.4cf41bc8.js",
+    "static/js/787.d308f227.chunk.js": "/NikeSeo/static/js/787.d308f227.chunk.js",
+    "index.html": "/NikeSeo/index.html",
+    "main.da49887e.css.map": "/NikeSeo/static/css/main.da49887e.css.map",
+    "main.4cf41bc8.js.map": "/NikeSeo/static/js/main.4cf41bc8.js.map",
+    "787.d308f227.chunk.js.map": "/NikeSeo/static/js/787.d308f227.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da49887e.css",
+    "static/js/main.4cf41bc8.js"
+  ]
+}
